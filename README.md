@@ -6,7 +6,7 @@
 
 # Best Bitcoin Mixers in 2024
 
-> A selected list of Bitcoin mixers relevant in 2024 with verified links `.onion` to access sites from the list.
+> A selected list of Bitcoin mixers relevant in 2024 with verified links  to access sites from the list.
 
 <small>
 
